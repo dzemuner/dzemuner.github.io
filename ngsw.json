@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639698475367,
+  "timestamp": 1639702303065,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "./favicon.ico",
         "./index.html",
-        "./main.30b0911928c025ff.js",
+        "./main.7ed0241d92c9a684.js",
         "./manifest.webmanifest",
         "./polyfills.2dc1ff8ec25b5585.js",
         "./runtime.3afd17c457136856.js",
@@ -30,7 +30,6 @@
       },
       "urls": [
         "./MaterialIcons-Regular.196fa4a92dd6fa73.ttf",
-        "./MaterialIcons-Regular.1e50f5c2ffa6aba4.eot",
         "./MaterialIcons-Regular.7ea2023eeca07427.woff2",
         "./MaterialIcons-Regular.db852539204b1a34.woff",
         "./assets/icons/icon-128x128.png",
@@ -50,7 +49,6 @@
   "dataGroups": [],
   "hashTable": {
     "./MaterialIcons-Regular.196fa4a92dd6fa73.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
-    "./MaterialIcons-Regular.1e50f5c2ffa6aba4.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
     "./MaterialIcons-Regular.7ea2023eeca07427.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
     "./MaterialIcons-Regular.db852539204b1a34.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
     "./assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
@@ -64,8 +62,8 @@
     "./assets/img/icons-192.png": "89e0cf9c9ae68c6a5d8536e3eee3b50300493bde",
     "./assets/img/icons-512.png": "a5f0b3d8b424f3ac480960c29933e5335b73107a",
     "./favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "./index.html": "fa84f0afa441414abd4654f2d733ee02fa682a46",
-    "./main.30b0911928c025ff.js": "e897369dfdfbe2e239480a8c525df112bc686b5b",
+    "./index.html": "1a8e7428ed6aeb46b1b51da2ffab05b3bf931bd9",
+    "./main.7ed0241d92c9a684.js": "1bfd6d4537ed73a9bd2594890f7205a30bdc7946",
     "./manifest.webmanifest": "e17ec45a7855ac73defb901c5c79e0c619fed501",
     "./polyfills.2dc1ff8ec25b5585.js": "2ccc9aa825697ea5fb0406baa5e55d3f4f771b6a",
     "./runtime.3afd17c457136856.js": "39057cc3e836c17bb9291b1d7e3a2b17d7f03d3f",
